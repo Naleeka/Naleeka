@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Naleeka 👋
 - 🌱 I’m currently learning HTML, CSS, JS, Flutter
 - 📫 How to reach me: contact me on whatsapp : +94 711 192 003 | email : knaleeka845@gmail.com 
 <!--
