@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning HTML, CSS, JS, Flutter
+- 📫 How to reach me: contact me on whatsapp : +94 711 192 003 | email : knaleeka845@gmail.com 
 <!--
 **Naleeka/Naleeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
